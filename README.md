@@ -25,6 +25,16 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+---
+
+### 👨‍💻: About Me : I am a software developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Egypt.
+- :telescope: I’m working as a Software Engineer and contributing to Flutter apps for Android, IOS, Web.
+
+- :seedling: A big fan of Machine Learning And Computer vision
+
+- :zap: In my free time, I solve problems on codility, codeforces, and hackerrank.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Mahmoud_Ibrahim-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-ibrahim-ellahone-0a5a011ba/)
 <!--
 **mod-ibr/mod-ibr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
