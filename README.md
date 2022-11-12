@@ -33,7 +33,7 @@
 - :seedling: A big fan of Machine Learning And Computer vision
 
 - :zap: In my free time, I solve problems on codility, codeforces, and hackerrank.
-
+- ⚡: My hobby is IoT systems using Embedded Linux like Raspberry pi
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Mahmoud_Ibrahim-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-ibrahim-ellahone-0a5a011ba/)
 
 ---
