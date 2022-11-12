@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&duration=5003&pause=1000&color=008D8D&width=550&height=53&lines=Flutter+Developer+and+Instructor.+)](https://git.io/typing-svg)
 <!--
 **mod-ibr/mod-ibr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
