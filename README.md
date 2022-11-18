@@ -29,7 +29,7 @@
 ---
 
 ### 👨‍💻: About Me : I am a software developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Egypt.
-- :telescope: I’m working as a Software Engineer and contributing to Flutter apps for Android, IOS, Web.
+- :telescope: I’m working as a Software Engineer, and I’m interested in Flutter apps for Android, IOS, and Web applications.
 
 - :seedling: A big fan of Machine Learning And Computer vision
 
